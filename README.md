@@ -34,3 +34,4 @@ Note: Please make sure Node js is installed
 8. Run the application on local machine using the follwing command
    npm run start
 9. Application will be up and running on browser
+
