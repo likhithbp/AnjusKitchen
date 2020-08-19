@@ -12,7 +12,7 @@ Note: Please make sure you have Node js and git installed
    git clone https://github.com/likhithbp/AnjusKitchen.git 
 5. Step into the assessment folder
    cd AnjusKitchen
-6. Run the below command
+6. Run the command
    npm install
 7. Run the application on local machine using the follwing command
    npm run start
@@ -29,6 +29,8 @@ Note: Please make sure Node js is installed
     cd Downloads
 6. Step into the "AnjusKitchen-master" folder
     cd AnjusKitchen-master
-7. Run the application on local machine using the follwing command
+7. Run the command
+   npm install
+8. Run the application on local machine using the follwing command
    npm run start
-8. Application will be up and running on browser
+9. Application will be up and running on browser
