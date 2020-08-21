@@ -35,3 +35,4 @@ Note: Please make sure Node js is installed
    npm run start
 9. Application will be up and running on browser
 
+
